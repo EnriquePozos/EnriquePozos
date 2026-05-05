@@ -89,18 +89,15 @@ I enjoy building everything from real-time web apps and interactive systems to d
 ---
 
 ## 🚀 Featured Projects
-<img width="300" height="70" alt="banner" src="https://github.com/user-attachments/assets/e7425022-45b0-48f2-ac68-11186939d774" />
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Inclusive Reviews Platform**](https://github.com/EnriquePozos/inclusive-reviews) | Web app for searching and rating places by their accessibility features | MongoDB · Express · React · Node.js |
-| [**Messaging, Video & Gamification System**](https://github.com/EnriquePozos/messaging-gamification) | Real-time chat, video calls, virtual store with in-app currency and betting pool system | React · Vite · Tailwind · PHP · MySQL · WebSockets |
-| [**Recipe Blog**](https://github.com/EnriquePozos/recipe-blog) | Full-stack MVC blog with auth, posts feed and user profiles | PHP · Java · Bootstrap · MySQL |
-| [**Hotel Management System**](https://github.com/EnriquePozos/hotel-management) | Desktop app for managing rooms and reservations with a transactional DB | C# · .NET · SQL Server |
+| [**Inclusive Reviews Platform**]([https://github.com/EnriquePozos/inclusive-reviews](https://github.com/cynthiascruz/conciencia-con-onda)) | Web app for searching and rating places by their accessibility features | MongoDB · Express · React · Node.js |
+| [**Messaging, Video & Gamification System**]([https://github.com/EnriquePozos/messaging-gamification](https://github.com/EnriquePozos/Sistema-Mensajes-Videollamadas)) | Real-time chat, video calls, virtual store with in-app currency and betting pool system | React · Vite · Tailwind · PHP · MySQL · WebSockets |
+| [**Recipe Blog**]([https://github.com/EnriquePozos/recipe-blog](https://github.com/EnriquePozos/Sistema-de-Recetas)) | Full-stack MVC blog with auth, posts feed and user profiles | PHP · Java · Bootstrap · MySQL |
+| [**Hotel Management System**]([https://github.com/EnriquePozos/hotel-management](https://github.com/ItsRulini/MAD)) | Desktop app for managing rooms and reservations with a transactional DB | C# · .NET · SQL Server |
 | [**Payroll System with NoSQL**](https://github.com/EnriquePozos/payroll-cassandra) | Distributed payroll manager using Apache Cassandra for large-scale data | Cassandra · C# · .NET |
-| [**UX/UI Web Redesign**](https://github.com/EnriquePozos/uxui-redesign) | User-centered redesign focused on navigation and interactive experience | HTML · CSS · JavaScript · Figma |
-
-> ⚠️ **Note:** Replace each link above with your actual repository URLs.
+| [**UX/UI Web Redesign**]([https://github.com/EnriquePozos/uxui-redesign](https://github.com/EnriquePozos/PIA-UXUI)) | User-centered redesign focused on navigation and interactive experience | HTML · CSS · JavaScript · Figma |
 
 ---
 
