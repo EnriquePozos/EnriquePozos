@@ -1,0 +1,50 @@
+<svg width="100%" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#58A6FF" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="#0D1117"/>
+  <rect width="1200" height="280" fill="url(#dots)"/>
+
+  <!-- Top accent line -->
+  <line x1="0" y1="3" x2="1200" y2="3" stroke="#58A6FF" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bottom subtle line -->
+  <line x1="0" y1="277" x2="1200" y2="277" stroke="#58A6FF" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+
+  <!-- Corner bracket — top left -->
+  <path d="M 36 28 L 36 80 M 36 28 L 88 28" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+  <!-- Corner bracket — top right -->
+  <path d="M 1164 28 L 1164 80 M 1164 28 L 1112 28" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+  <!-- Corner bracket — bottom left -->
+  <path d="M 36 252 L 36 200 M 36 252 L 88 252" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+  <!-- Corner bracket — bottom right -->
+  <path d="M 1164 252 L 1164 200 M 1164 252 L 1112 252" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Decorative circles — left -->
+  <circle cx="150" cy="140" r="52" stroke="#58A6FF" stroke-width="0.8" opacity="0.18"/>
+  <circle cx="150" cy="140" r="34" stroke="#58A6FF" stroke-width="0.8" opacity="0.12"/>
+  <circle cx="150" cy="140" r="7" fill="#58A6FF" opacity="0.18"/>
+
+  <!-- Decorative circles — right -->
+  <circle cx="1050" cy="140" r="52" stroke="#58A6FF" stroke-width="0.8" opacity="0.18"/>
+  <circle cx="1050" cy="140" r="34" stroke="#58A6FF" stroke-width="0.8" opacity="0.12"/>
+  <circle cx="1050" cy="140" r="7" fill="#58A6FF" opacity="0.18"/>
+
+  <!-- Code tag -->
+  <text x="600" y="84" font-family="'Courier New', Courier, monospace" font-size="16" fill="#58A6FF" opacity="0.55" text-anchor="middle">&lt; developer /&gt;</text>
+
+  <!-- Name -->
+  <text x="600" y="152" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58" fill="#E6EDF3" text-anchor="middle" letter-spacing="4">Enrique Pozos</text>
+
+  <!-- Divider under name -->
+  <line x1="360" y1="168" x2="840" y2="168" stroke="#58A6FF" stroke-width="1" opacity="0.4"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="198" font-family="'Courier New', Courier, monospace" font-size="19" fill="#58A6FF" text-anchor="middle">Full-Stack Developer · Multimedia &amp; Digital Animation</text>
+
+  <!-- Tagline -->
+  <text x="600" y="228" font-family="'Courier New', Courier, monospace" font-size="14" fill="#8B949E" text-anchor="middle">Monterrey, México  ·  UANL  ·  2022 – Present</text>
+</svg>
