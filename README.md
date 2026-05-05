@@ -1,8 +1,10 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Enrique+Pozos+%F0%9F%91%8B;Full-Stack+Developer;Multimedia+%26+Digital+Animation+Student;Game+%26+Software+Enthusiast" alt="Typing SVG" />
+  <img src="./banner.svg" alt="Enrique Pozos — Full-Stack Developer" width="100%"/>
+</div>
 
 <br/>
+
+<div align="center">
 
 <a href="mailto:enriquepozosg@gmail.com">
   <img src="https://img.shields.io/badge/Email-enriquepozosg%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161B22" />
@@ -26,6 +28,24 @@ I enjoy building everything from real-time web apps and interactive systems to d
 - 🌐 Experience with **MVC**, **MERN Stack**, real-time systems & NoSQL databases
 - 🎮 Passionate about **game dev**, software engineering & creative tech
 - 🌎 **Spanish** (native) · **English** (intermediate)
+
+---
+
+## 🔨 Currently Building
+
+<table>
+<tr>
+<td width="60px" align="center">🌐</td>
+<td>
+<strong><a href="https://github.com/EnriquePozos/inclusive-reviews">Inclusive Reviews Platform</a></strong><br/>
+<sub>A MERN Stack web app where users search and rate places based on their accessibility features. Focused on inclusive design and NoSQL data architecture.</sub><br/><br/>
+<img src="https://img.shields.io/badge/MongoDB-active-0D1117?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Express.js-active-0D1117?style=flat-square&logo=express&logoColor=white&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/React-active-0D1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22"/>
+<img src="https://img.shields.io/badge/Node.js-active-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=161B22"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,15 +89,18 @@ I enjoy building everything from real-time web apps and interactive systems to d
 ---
 
 ## 🚀 Featured Projects
+<img width="300" height="70" alt="banner" src="https://github.com/user-attachments/assets/e7425022-45b0-48f2-ac68-11186939d774" />
 
 | Project | Description | Stack |
 |---|---|---|
-| **Inclusive Reviews Platform** | Web app for searching and rating places by their accessibility features | MongoDB · Express · React · Node.js |
-| **Messaging, Video & Gamification System** | Real-time chat, video calls, a virtual store with in-app currency and a betting pool system | React · Vite · Tailwind · PHP · MySQL · WebSockets |
-| **Recipe Blog** | Full-stack MVC blog with auth, posts feed and user profiles | PHP · Java · Bootstrap · MySQL |
-| **Hotel Management System** | Desktop app for managing rooms and reservations with a transactional DB | C# · .NET · SQL Server |
-| **Payroll System with NoSQL** | Distributed payroll manager using Apache Cassandra for large-scale data | Cassandra · C# · .NET |
-| **UX/UI Web Redesign** | User-centered redesign focused on navigation and interactive experience | HTML · CSS · JavaScript · Figma |
+| [**Inclusive Reviews Platform**](https://github.com/EnriquePozos/inclusive-reviews) | Web app for searching and rating places by their accessibility features | MongoDB · Express · React · Node.js |
+| [**Messaging, Video & Gamification System**](https://github.com/EnriquePozos/messaging-gamification) | Real-time chat, video calls, virtual store with in-app currency and betting pool system | React · Vite · Tailwind · PHP · MySQL · WebSockets |
+| [**Recipe Blog**](https://github.com/EnriquePozos/recipe-blog) | Full-stack MVC blog with auth, posts feed and user profiles | PHP · Java · Bootstrap · MySQL |
+| [**Hotel Management System**](https://github.com/EnriquePozos/hotel-management) | Desktop app for managing rooms and reservations with a transactional DB | C# · .NET · SQL Server |
+| [**Payroll System with NoSQL**](https://github.com/EnriquePozos/payroll-cassandra) | Distributed payroll manager using Apache Cassandra for large-scale data | Cassandra · C# · .NET |
+| [**UX/UI Web Redesign**](https://github.com/EnriquePozos/uxui-redesign) | User-centered redesign focused on navigation and interactive experience | HTML · CSS · JavaScript · Figma |
+
+> ⚠️ **Note:** Replace each link above with your actual repository URLs.
 
 ---
 
