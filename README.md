@@ -37,7 +37,7 @@ I enjoy building everything from real-time web apps and interactive systems to d
 <tr>
 <td width="60px" align="center">🌐</td>
 <td>
-<strong><a href="https://github.com/EnriquePozos/inclusive-reviews">Inclusive Reviews Platform</a></strong><br/>
+<strong><a href="https://github.com/cynthiascruz/conciencia-con-onda">Inclusive Reviews Platform</a></strong><br/>
 <sub>A MERN Stack web app where users search and rate places based on their accessibility features. Focused on inclusive design and NoSQL data architecture.</sub><br/><br/>
 <img src="https://img.shields.io/badge/MongoDB-active-0D1117?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=161B22"/>
 <img src="https://img.shields.io/badge/Express.js-active-0D1117?style=flat-square&logo=express&logoColor=white&labelColor=161B22"/>
@@ -92,12 +92,12 @@ I enjoy building everything from real-time web apps and interactive systems to d
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Inclusive Reviews Platform**]([https://github.com/EnriquePozos/inclusive-reviews](https://github.com/cynthiascruz/conciencia-con-onda)) | Web app for searching and rating places by their accessibility features | MongoDB · Express · React · Node.js |
-| [**Messaging, Video & Gamification System**]([https://github.com/EnriquePozos/messaging-gamification](https://github.com/EnriquePozos/Sistema-Mensajes-Videollamadas)) | Real-time chat, video calls, virtual store with in-app currency and betting pool system | React · Vite · Tailwind · PHP · MySQL · WebSockets |
-| [**Recipe Blog**]([https://github.com/EnriquePozos/recipe-blog](https://github.com/EnriquePozos/Sistema-de-Recetas)) | Full-stack MVC blog with auth, posts feed and user profiles | PHP · Java · Bootstrap · MySQL |
-| [**Hotel Management System**]([https://github.com/EnriquePozos/hotel-management](https://github.com/ItsRulini/MAD)) | Desktop app for managing rooms and reservations with a transactional DB | C# · .NET · SQL Server |
+| [**Inclusive Reviews Platform**](https://github.com/cynthiascruz/conciencia-con-onda) | Web app for searching and rating places by their accessibility features | MongoDB · Express · React · Node.js |
+| [**Messaging, Video & Gamification System**](https://github.com/EnriquePozos/Sistema-Mensajes-Videollamadas) | Real-time chat, video calls, virtual store with in-app currency and betting pool system | React · Vite · Tailwind · PHP · MySQL · WebSockets |
+| [**Recipe Blog**](https://github.com/EnriquePozos/Sistema-de-Recetas) | Full-stack MVC blog with auth, posts feed and user profiles | PHP · Java · Bootstrap · MySQL |
+| [**Hotel Management System**](https://github.com/ItsRulini/MAD) | Desktop app for managing rooms and reservations with a transactional DB | C# · .NET · SQL Server |
 | [**Payroll System with NoSQL**](https://github.com/EnriquePozos/payroll-cassandra) | Distributed payroll manager using Apache Cassandra for large-scale data | Cassandra · C# · .NET |
-| [**UX/UI Web Redesign**]([https://github.com/EnriquePozos/uxui-redesign](https://github.com/EnriquePozos/PIA-UXUI)) | User-centered redesign focused on navigation and interactive experience | HTML · CSS · JavaScript · Figma |
+| [**UX/UI Web Redesign**](https://github.com/EnriquePozos/PIA-UXUI) | User-centered redesign focused on navigation and interactive experience | HTML · CSS · JavaScript · Figma |
 
 ---
 
